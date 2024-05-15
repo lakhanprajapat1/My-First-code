@@ -1,2 +1,2 @@
 # My-First-code
-Print <Hello>
+Print Hello
